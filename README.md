@@ -1,6 +1,6 @@
 # StellarMaterial
 
-This app controls the color of the four control light bulbs at the same time, bright and dark.
+This app controls the color of four LED bulbs at the same time.
 
 ![First Screenshots](https://github.com/bingcheng1998/StellarMaterial/tree/master/ScreenShots/61525444276_.pic.jpg)
 
